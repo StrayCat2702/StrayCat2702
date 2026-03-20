@@ -1,16 +1,14 @@
-## Hi there 👋
+# Baptiste Cousin
 
-<!--
-**StrayCat2702/StrayCat2702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jeune technicien polyvalent passionné par les réseaux, l'informatique et le travail manuel.
+Disponible immédiatement pour un CDD, CDI ou intérim.
 
-Here are some ideas to get you started:
+## 🛠️ Compétences
+- Réseaux : TCP/IP, VLANs, routage statique, Cisco (Packet Tracer)
+- Systèmes : Windows, Linux, VirtualBox
+- Programmation : Python, HTML/CSS, Arduino
+- Outils : Git, CLI Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Me contacter
+- Email : baptiste.cousin@outlook.com
+- LinkedIn : linkedin.com/in/cousin-baptiste
