@@ -11,4 +11,4 @@ Disponible immédiatement pour un CDD, CDI ou intérim.
 
 ## 📫 Me contacter
 - Email : baptiste.cousin@outlook.com
-- LinkedIn : linkedin.com/in/cousin-baptiste
+- LinkedIn : https://linkedin.com/in/cousin-baptiste
